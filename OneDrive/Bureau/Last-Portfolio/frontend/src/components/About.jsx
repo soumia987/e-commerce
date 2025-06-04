@@ -17,42 +17,32 @@ const About = ({ openTestimonialModal }) => {
       title: 'Mobile apps',
       description: 'Professional development of applications for iOS and Android.'
     },
-    {
-      icon: 'https://i.postimg.cc/0NL8zHpx/icon-photo.png',
-      title: 'Photography',
-      description: 'I make high-quality photos of any category at a professional level.'
-    }
+    
   ];
 
   const testimonials = [
     {
       id: 1,
       avatar: 'https://i.postimg.cc/zGDHfn3G/avatar-1.png',
-      name: 'Daniel Lewis',
+      name: 'manal ',
       date: '14 June, 2023',
-      text: 'Richard was hired to create a corporate identity. It\'s modern, clean and with a beautiful design that got a lot of praises from colleagues and visitors. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.'
+      text: 'soumia was hired to create a corporate identity. It\'s modern, clean and with a beautiful design that got a lot of praises from colleagues and visitors. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.'
     },
     {
       id: 2,
       avatar: 'https://i.postimg.cc/DwY0yHtx/avatar-2.png',
-      name: 'Jessica Miller',
+      name: 'ibtissam',
       date: '10 May, 2023',
-      text: 'Working with Richard has been an absolute pleasure. I was impressed with his attention to detail, his web design skills and his professional approach to our timelines and processes.'
+      text: 'Working with soumia has been an absolute pleasure. I was impressed with his attention to detail, his web design skills and his professional approach to our timelines and processes.'
     },
     {
       id: 3,
       avatar: 'https://i.postimg.cc/fRFWhX9F/avatar-3.png',
-      name: 'Emily Evans',
+      name: 'Ahmed',
       date: '22 April, 2023',
       text: 'I couldn\'t be happier with the website that Richard created for us. His attention to detail and creativity is unmatched. Our clients frequently compliment the design, and it has significantly improved our brand image.'
     },
-    {
-      id: 4,
-      avatar: 'https://i.postimg.cc/zXv1Xv81/avatar-4.png',
-      name: 'Henry Williams',
-      date: '5 March, 2023',
-      text: 'I was overwhelmed with the thought of redesigning my online store, but Richard made the process seamless. The site is not only visually appealing but also optimized for conversions. I\'ve seen a 50% increase in traffic since the launch!'
-    }
+   
   ];
 
   const clients = [
